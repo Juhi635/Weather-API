@@ -8,8 +8,6 @@ A simple, clean weather web application built using **HTML**, **CSS**, and **Jav
 
 ![Weather App Screenshot](screenshot.png)
 
-> 🖼️ *Replace `screenshot.png` with a real screenshot image of your website (take one from your browser and save it in the same folder).*
-
 ---
 
 ## ✨ Features
