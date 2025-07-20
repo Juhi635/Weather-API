@@ -87,15 +87,6 @@ var apiKey = 'YOUR_API_KEY_HERE';
 
 ---
 
-## 📸 Screenshot Instructions
-
-- Run the app.
-- Take a screenshot (use `PrtScn` or any screenshot tool).
-- Save it as `screenshot.png` in the same project folder.
-- This will appear in the preview section above.
-
----
-
 ## 📃 License
 
 This project is made for educational and academic purposes. Free to use, modify, and submit 😊
