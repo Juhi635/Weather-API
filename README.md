@@ -6,6 +6,8 @@ A simple, clean weather web application built using **HTML**, **CSS**, and **Jav
 
 ## 🔍 Preview
 
+🌐 **Live Demo**: [Click here to view the website](https://sky-cast-api.vercel.app/)
+
 ![Weather App Screenshot](screenshot.png)
 
 ---
